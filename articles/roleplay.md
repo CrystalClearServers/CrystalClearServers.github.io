@@ -144,6 +144,7 @@ Sewer monsters are exempt from this rule as long as they are killed in the sewer
 
 14. Suicide Bombers may not do any criminal activities besides Jihad bombing.
 
+15. Only thieves can counter, other criminals can not.
 
 
 ## The following actions must be Adverted:
@@ -222,7 +223,7 @@ If you are in a party you may do the following:
 - Avenge your party member if they were killed. (Only if you witnessed the action take place)
 
 
-Building Rules:
+## Building Rules:
 
 
 1. While being raided you may not reset your fading doors after they have been lockpicked.
@@ -266,7 +267,7 @@ Building Rules:
 14. Do not use textscreens for hate speech or harassment.
 
 
-15. Hobos may only build on staff rooftops with permission from a member of high staff.
+15. Players may NOT build on rooftops as this can cause lag. Ask a high staff member for permission first!
 
 
 16. Bases must be raid-able by all users and classes. You must build your base thinking as a standard player. Bases where Sweps and specific tools are required to enter are not allowed. 
@@ -282,6 +283,8 @@ Building Rules:
 20. You may not build in your base while being raided. 
 
 21. Black-out bases are not allowed.
+
+22. Bases that impede player speed (other than crouch bases) are not allowed. IE: a prop to climb that makes players move slower than normal speed.
 
 
 ## All Cooldowns:
