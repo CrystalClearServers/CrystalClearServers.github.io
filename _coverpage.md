@@ -4,13 +4,11 @@
 
 # CrystalClear Servers
 
-> Lorum ipsum
+> Taking pride in our experiences.
 
-> Temporary text
-
-- Scroll down to view documentation.
+- Scroll down to view articles.
 
 [Connect to RP](steam://connect/209.222.104.38:27030/)
 [Discord](https://discord.gg/H3ztBSer)
 
-![](assets/tiledbg.gif)
+![color](#212226)

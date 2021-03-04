@@ -222,67 +222,68 @@ If you are in a party you may do the following:
 - Avenge your party member if they were killed. (Only if you witnessed the action take place)
 
 
-Building Rules:
+## Building Rules:
 
 
 1. While being raided you may not reset your fading doors after they have been lockpicked.
-
-
+ 
+ 
 2. Keypads must be working, have a minimum hold length of 5 seconds and be placed near the door they open.
-
-
-3. At only one entrance to your base may you have 3 fading doors, however you may not stack fading doors directly on top of eachother.- The rest of the entrances may only have one fading door. You may have a maximum of 5 fading doors in your base.
-
-
-
+ 
+ 
+3. At only one entrance to your base may you have 3 fading doors, however you may not stack fading doors directly on top of eachother.  The rest of the entrances may only have one fading door. You may have a maximum of 5 fading doors in your base.
+ 
+ 
+ 
 4. Fading door abuse is not allowed. (You must type in the keypad password if within an RP situation.)
-
-
+ 
+ 
 5. A player must be able to enter and exit your building without having to destroy any props. (This would be prop block.)
-
-
+ 
+ 
 6. You cannot make bases with fading door mazes, dropping floors, etc.
-
-7. One-way props, No-collided entrances, and Crouch bases are allowed.
-
-
+ 
+7. One-way see through props, No-collided entrances, and Crouch bases are allowed.
+ 
+ 
 8. Do not build inside unowned buildings or ones that you do not own unless permitted by the buildings owner.
-
-
+ 
+ 
 9. Do not build out on the streets or anywhere public. Hobos may build in alleyways and in the streets as long as nothing is propblocked.
-
+ 
 10. In order to kill players who enter your base, a KOS line or sign (above size 50 and clearly visible) is required. You must state what action will get them killed. (Ex. KOS if passed line, KOS if guns out)
-
-
+ 
+ 
 11. KOS lines are only allowed inside or around the base you own. You may make a line near or around the base entrance.
-
-
-12. Placing a "BUILDING" sign outside your base will keep other players from disturbing you during RP, however you may not have printers or a KOS sign while in use. If you come across a base with a building sign and are asked to leave, then do so.
-
-
+ 
+ 
+12. Placing a “BUILDING” sign outside your base will keep other players from disturbing you during RP, however you may not have printers or a KOS sign while in use. If you come across a base with a building sign and are asked to leave, then do so.
+ 
+ 
 13. No Mega-basing. Do not block off more than one building and/or a whole section of the map to use as your base.
-
-
+ 
+ 
 14. Do not use textscreens for hate speech or harassment.
-
-
-15. Hobos may only build on staff rooftops with permission from a member of high staff.
-
-
+ 
+ 
+15. Players may NOT build on rooftops. This causes too much lag. Ask a high staff member for permission first!
+ 
+ 
 16. Bases must be raid-able by all users and classes. You must build your base thinking as a standard player. Bases where Sweps and specific tools are required to enter are not allowed. 
-
-
+ 
+ 
 17. Co-Owning a property with someone is allowed, but you may not own more than 1 property at a time. 
-
-
+ 
+ 
 18. The owner of the building is the person who owns the front door. If you do not own the door and you are not partied with the owner, you may not defend the base during raids without advert.
-
+ 
 19. Pixel Fading Doors are not allowed. You must be able to use a lock pick on any part of the door/prop. 
-
+ 
 20. You may not build in your base while being raided. 
-
+ 
 21. Black-out bases are not allowed.
-
+ 
+22. Bases that impede player speed (other than crouch bases) are not allowed IE: a prop to climb that makes players move slower than normal speed.
 
 ## All Cooldowns:
 
@@ -311,7 +312,7 @@ Building Rules:
 
 - Terror = 10 Minutes (Classes With Jihad Bombs Only)ww
 
-> Assisting, Stealing, and Countering have NO Cooldown.
+!> Assisting, Stealing, and Countering have NO Cooldown.
 
 
 ## Raiding Rules:
@@ -459,7 +460,7 @@ Building Rules:
 
 - "/Lockdown"
     - Will start a lockdown. Lockdowns mean that nobody should be out of their homes. 
-    To end this lockdown use "/unlockdown" (Reasons for lockdown: Adding Laws, PD Being Raided etc.)
+    - To end this lockdown use "/unlockdown" (Reasons for lockdown: Adding Laws, PD Being Raided etc.)
 
 - "/placelaws"
     - Places a Law Board where you’re looking.

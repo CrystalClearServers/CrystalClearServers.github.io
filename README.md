@@ -6,6 +6,3 @@ For CrystalClear RP, please see relevant information [here](/roleplay).
 
 Join our Discord by clicking [here](https://discord.gg/H3ztBSer).
 
-## What makes CrystalClear?
-
-We stride in making our server - todo
