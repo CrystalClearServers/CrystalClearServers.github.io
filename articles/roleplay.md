@@ -144,7 +144,7 @@ Sewer monsters are exempt from this rule as long as they are killed in the sewer
 
 14. Suicide Bombers may not do any criminal activities besides Jihad bombing.
 
-
+15. Only thieves can counter, other criminals can not.
 
 ## The following actions must be Adverted:
 
