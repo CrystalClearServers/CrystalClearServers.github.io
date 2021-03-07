@@ -175,7 +175,7 @@ li input[type='checkbox'] {
           animation: octocat-wave 560ms ease-in-out;
 }
 .github-corner svg {
-  color: #3f3f3f;
+  color: #212226;
   fill: var(--theme-color, #1F6773);
   height: 80px;
   width: 80px;
@@ -362,7 +362,7 @@ body.sticky .sidebar-toggle {
 .markdown-section p.tip:before {
   background-color: #f66;
   border-radius: 100%;
-  color: #3f3f3f;
+  color: #212226;
   content: '!';
   font-family: 'Dosis', 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
   font-size: 14px;
@@ -502,7 +502,7 @@ section.cover.show {
   display: flex;
 }
 section.cover.has-mask .mask {
-  background-color: #3f3f3f;
+  background-color: #212226;
   opacity: 0.8;
   position: absolute;
   top: 0;
@@ -587,11 +587,11 @@ section.cover blockquote > p > a:hover {
   color: var(--theme-color, #1F6773);
 }
 body {
-  background-color: #3f3f3f;
+  background-color: #212226;
 }
 /* sidebar */
 .sidebar {
-  background-color: #3f3f3f;
+  background-color: #212226;
   color: #c8c8c8;
 }
 .sidebar li {
