@@ -44,7 +44,6 @@ If a player is found abusing these loopholes, warnings will be given followed up
 
 12. No Harassment towards players or staff. This includes homophobia, threats, racism, sexism, anti-religion, etc.
     - Depending on the severity, it can be a ZERO tolerance situation resulting in a ban.
-    - The ONLY exception is using the word "Nigga."
 
 13. No voice changers or soundboards; the only exception is DJs and Hobos.
 
@@ -284,6 +283,12 @@ If you are in a party you may do the following:
 21. Black-out bases are not allowed.
  
 22. Bases that impede player speed (other than crouch bases) are not allowed IE: a prop to climb that makes players move slower than normal speed.
+    Crouch bases are excluded from this rule. 
+
+23. Crouch bases may only have a total of 5 zigzag turns. 
+
+24. One ways are not allowed, this includes both one way see through props and one way shooting.
+
 
 ## All Cooldowns:
 
