@@ -24,3 +24,5 @@ Changes
 Removals
 - Force combustion and lighting have been removed.
 ```
+
+Patch notes may be found at our [Discord server](https://discord.gg/H3ztBSer).

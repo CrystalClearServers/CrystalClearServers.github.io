@@ -256,7 +256,7 @@ If you are in a party you may do the following:
 11. KOS lines are only allowed inside or around the base you own. You may make a line near or around the base entrance.
  
  
-12. Placing a “BUILDING” sign outside your base will keep other players from disturbing you during RP, however you may not have printers or a KOS sign while in use. If you come across a base with a building sign and are asked to leave, then do so.
+12. Placing a "BUILDING" sign outside your base will keep other players from disturbing you during RP, however you may not have printers or a KOS sign while in use. If you come across a base with a building sign and are asked to leave, then do so.
  
  
 13. No Mega-basing. Do not block off more than one building and/or a whole section of the map to use as your base.
@@ -315,7 +315,7 @@ If you are in a party you may do the following:
 
 - Bank raid = 20 Minutes (The cooldown is shared between everyone on the server)
 
-- Terror = 10 Minutes (Classes With Jihad Bombs Only)ww
+- Terror = 10 Minutes (Classes With Jihad Bombs Only)
 
 !> Assisting, Stealing, and Countering have NO Cooldown.
 
