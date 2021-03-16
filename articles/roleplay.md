@@ -242,7 +242,7 @@ If you are in a party you may do the following:
  
 6. You cannot make bases with fading door mazes, dropping floors, etc.
  
-7. One-way see through props, No-collided entrances, and Crouch bases are not allowed.
+7. One-way see through props, No-collided entrances are not allowed.
  
  
 8. Do not build inside unowned buildings or ones that you do not own unless permitted by the buildings owner.
@@ -288,6 +288,7 @@ If you are in a party you may do the following:
 23. Crouch bases may only have a total of 5 zigzag turns. 
 
 24. One ways are not allowed, this includes both one way see through props and one way shooting.
+
 
 
 ## All Cooldowns:
