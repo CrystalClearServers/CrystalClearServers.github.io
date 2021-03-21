@@ -287,7 +287,7 @@ If you are in a party you may do the following:
 
 23. Crouch bases may only have a total of 5 zigzag turns. 
 
-24. One ways are not allowed, this includes both one way see through props and one way shooting.
+24. One ways are not allowed, this includes both one way see through props and one way shooting. Models head glitching through a prop still counts as a one way!
 
 25. Sitting on a No-Collided prop to force yourself into someone's base will result in a permanent ban! Staff will count this as exploiting.
 
