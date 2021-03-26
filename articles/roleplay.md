@@ -224,36 +224,27 @@ If you are in a party you may do the following:
 ## Building Rules:
 
 
-1. While being raided you may not reset your fading doors after they have been lockpicked.
- 
- 
-2. Keypads must be working, have a minimum hold length of 5 seconds and be placed near the door they open.
- 
- 
-3. At only one entrance to your base may you have 3 fading doors, however you may not stack fading doors directly on top of eachother.  The rest of the entrances may only have one fading door. You may have a maximum of 5 fading doors in your base.
- 
- 
- 
-4. Fading door abuse is not allowed. (You must type in the keypad password if within an RP situation.)
- 
- 
-5. A player must be able to enter and exit your building without having to destroy any props. (This would be prop block.)
- 
- 
-6. You cannot make bases with fading door mazes, dropping floors, etc.
- 
-7. One-way see through props, No-collided entrances are not allowed.
- 
- 
-8. Do not build inside unowned buildings or ones that you do not own unless permitted by the buildings owner.
- 
- 
-9. Do not build out on the streets or anywhere public. Hobos may build in alleyways and in the streets as long as nothing is propblocked.
- 
-10. In order to kill players who enter your base, a KOS line or sign (above size 50 and clearly visible) is required. You must state what action will get them killed. (Ex. KOS if passed line, KOS if guns out)
- 
- 
-11. KOS lines are only allowed inside or around the base you own. You may make a line near or around the base entrance.
+1. You may raid as a thief, mercenary, bank robber, and any custom class designated as thief.
+
+2. You must wait 10 minutes in-between each raid (20 minutes if raiding the same person).
+
+3. You may not advert raids from inside the building.
+
+4. Civil protection may only raid while having a warrant on a base.
+
+5. You cannot be raiding a base you already have taken everything and/or killed everyone from for more than 10 minutes.
+
+6. You may raid the PD but you may not take over for more than 10 minutes.
+
+7. In order to raid the PD there must be a mayor and police officer online. (This includes SWAT)
+
+8. Bank Raid may only be performed by Bank Robbers or classes that have the same ability. There must be at least two PD members on this includes: Mayor, Police officers and or SWAT members.
+
+9. Raiding a base that’s open and has no props or printers in it is not allowed. An open base is defined as a base that you can walk into and freely explore the base without being attacked.
+
+10. Paramedics cannot defib players in an active raid, only when that raid is over.
+
+11. If you respawn during a raid you cannot interact with the raid until it is over (even if the 5 minute NLR passes.)
  
  
 12. Placing a "BUILDING" sign outside your base will keep other players from disturbing you during RP, however you may not have printers or a KOS sign while in use. If you come across a base with a building sign and are asked to leave, then do so.
