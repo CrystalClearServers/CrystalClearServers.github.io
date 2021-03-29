@@ -223,64 +223,92 @@ If you are in a party you may do the following:
 
 ## Building Rules:
 
+1. You may only kill someone inside your base if you have a KOS sign on the outside of your building.
 
-1. You may raid as a thief, mercenary, bank robber, and any custom class designated as thief.
+2. Do not build in the streets unless you're a hobo.
+    Note: This includes partially blocking streets, checkpoints, megabases, etc.
 
-2. You must wait 10 minutes in-between each raid (20 minutes if raiding the same person).
+3. Obscure KOS or Building signs are prohibited, they must all viewable for all players.
+    Note: KOS or Building text screens must be a minimum size of 50.
 
-3. You may not advert raids from inside the building.
+4. You may only build on the inside of your base.
 
-4. Civil protection may only raid while having a warrant on a base.
+5. Your base must be raidable by all classes with raiding capabilities.
+    Example: CP, Thieves, etc.
 
-5. You cannot be raiding a base you already have taken everything and/or killed everyone from for more than 10 minutes.
+6. If you wish to construct your base without getting raided, you must place down a text screen reading "Building" onto the exterior.
 
-6. You may raid the PD but you may not take over for more than 10 minutes.
+7. If you have a building sign placed on the building you're basing in and are actively building, you're immune to muggings and raids against yourself.
 
-7. In order to raid the PD there must be a mayor and police officer online. (This includes SWAT)
+8. You may not have a building sign and a kos sign simultaneously.
 
-8. Bank Raid may only be performed by Bank Robbers or classes that have the same ability. There must be at least two PD members on this includes: Mayor, Police officers and or SWAT members.
+9. If a building sign is placed on the exterior of a building all roleplay is paused inside of the building.
 
-9. Raiding a base that’s open and has no props or printers in it is not allowed. An open base is defined as a base that you can walk into and freely explore the base without being attacked.
+10. While your building sign is placed, you shouldn't have any valuables/entities inside your base.
+    Example: Placing printers inside the base with a building sign. (Or any other item purchasable through the F4 Menu or Tablet).
 
-10. Paramedics cannot defib players in an active raid, only when that raid is over.
+12. You may not have more than 5 fading doors operated by keypads per base.
+	Note: Only 3 fading doors allowed at your entrance
 
-11. If you respawn during a raid you cannot interact with the raid until it is over (even if the 5 minute NLR passes.)
- 
- 
-12. Placing a "BUILDING" sign outside your base will keep other players from disturbing you during RP, however you may not have printers or a KOS sign while in use. If you come across a base with a building sign and are asked to leave, then do so.
- 
- 
-13. No Mega-basing. Do not block off more than one building and/or a whole section of the map to use as your base.
- 
- 
-14. Do not use textscreens for hate speech or harassment.
- 
- 
-15. Players may NOT build on rooftops. This causes too much lag. Ask a high staff member for permission first!
- 
- 
-16. Bases must be raid-able by all users and classes. You must build your base thinking as a standard player. Bases where Sweps and specific tools are required to enter are not allowed. 
- 
- 
-17. Co-Owning a property with someone is allowed, but you may not own more than 1 property at a time. 
- 
- 
-18. The owner of the building is the person who owns the front door. If you do not own the door and you are not partied with the owner, you may not defend the base during raids without advert.
- 
-19. Pixel Fading Doors are not allowed. You must be able to use a lock pick on any part of the door/prop. 
- 
-20. You may not build in your base while being raided. 
- 
-21. Black-out bases are not allowed.
- 
-22. Bases that impede player speed (other than crouch bases) are not allowed IE: a prop to climb that makes players move slower than normal speed.
-    Crouch bases are excluded from this rule. 
+13. Players should only have to crack each keypad once upon entry and once upon exit.
+    Example: Bases that loop around requiring you to crack one fading door multiple times.
 
-23. Crouch bases may only have a total of 5 zigzag turns. 
+14. You may block off excess entrances to your base.
+    Example: Blocking windows, backdoors, garage doors, etc.
 
-24. One ways are not allowed, this includes both one way see through props and one way shooting. Models head glitching through a prop still counts as a one way!
+15. You may not megabase
 
-25. Sitting on a No-Collided prop to force yourself into someone's base will result in a permanent ban! Staff will count this as exploiting.
+16. You may not have a base designed to trap people.
+
+17. You must be active within a base which you own the doors for.
+
+18. You may not own multiple buildings unless your job allows for it.
+
+19. Players may NOT build on rooftops.
+
+20. You may not spawn or edit the brightness of lights over 512 and a magnitude of 2.
+
+21. You must own all of the exterior doors to a building in order to build upon it.
+
+22. You cannot force someone to crouch during a raid for ANY reason
+    Example: Crouching to shoot back, crouching to crack keypads, etc.
+
+23. All keypads must have a hold length of at least 5 seconds.
+
+24. The lobby of PD must be accessible at all times
+
+25. You cannot make it AOS/KOS to enter the lobby with a text screen or law.
+
+26. You may not materialize fences.
+
+27. Do not set up an unfair advantage in a firefight within your base
+    Example: Where you can see and shoot someone, but they cannot see or shoot back or any other unfair advantage.
+
+28. No invisible props, buttons or keypads.
+
+27. Blackout/Colorout bases are not allowed.
+
+29. Maze bases are not allowed.
+
+30. All entities are considered props - this includes cameras, text-screens, etc.
+
+31. Keypads must be visible and directly beside the prop which they operate.
+
+32. Do not materialize or hide keypads/buttons.
+
+33. You may not no-collide props to act as hidden doors.
+
+34. No faulty keypads (keypads disconnected from a fading door).
+
+35. No crouch bases (forcing another user to crouch in order to enter your base).
+
+36. You cannot force someone to crouch during a raid for ANY reason
+
+37. Crouching to shoot back, crouching to crack keypads, etc.
+
+38. Sitting on a No-Collided prop to force yourself into someone's base will result in a permanent ban! Staff will count this as exploiting.
+ 
+
 
 
 
