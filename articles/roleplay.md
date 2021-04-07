@@ -145,6 +145,8 @@ Sewer monsters are exempt from this rule as long as they are killed in the sewer
 
 15. Only thieves can counter, other criminals can not.
 
+16. Auto-clicking Casino machines are not allowed; however, you can still auto-click mining.
+
 ## The following actions must be Adverted:
 
 - Stealing
@@ -282,12 +284,12 @@ If you are in a party you may do the following:
 
 25. You cannot make it AOS/KOS to enter the lobby with a text screen or law.
 
-26. You may not materialize fences in a way that makes them one way. Solid material is fine.
+26. You may not materialize fences in a way that makes them one way. Material that blocks both parties and or impairs both parties is fine.
 
 27. Do not set up an unfair advantage in a firefight within your base
     Example: Where you can see and or shoot someone, but they cannot see or shoot back or any other unfair advantage.
     
-28. Any type of one-way is not allowed.
+28. One-ways of any type are not allowed.
     
 29. No invisible props, buttons or keypads.
 
