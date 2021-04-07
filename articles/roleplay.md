@@ -143,7 +143,7 @@ Sewer monsters are exempt from this rule as long as they are killed in the sewer
 
 13. Only thieves can counter, other criminals can not.
 
-14. Auto-clicking Casino machines are not allowed; however, you can still auto-click mining.
+14. Auto-clicking/macroing Casino machines are not allowed; however, you can still auto-click mining.
 
 15. You can't build in mining areas.
 
