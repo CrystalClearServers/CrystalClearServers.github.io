@@ -121,31 +121,31 @@ Sewer monsters are exempt from this rule as long as they are killed in the sewer
 4. Do not roleplay in spawn. If you have a hit on someone in spawn, contact the staff team.
 
 
-6. No multi adverts are allowed. (Ex. /advert raid/over/assist, mug/kidnap/warn)
+5. No multi adverts are allowed. (Ex. /advert raid/over/assist, mug/kidnap/warn)
 
 
-7. Sewer monsters are KOS anywhere, including the sewers.
+6. Sewer monsters are KOS anywhere, including the sewers.
 
-8. Sewer monsters are not allowed to leave the sewers. This is FailRP.
-
-
-9. Having an un-holstered weapon is legal unless the law board says otherwise.
+7. Sewer monsters are not allowed to leave the sewers. This is FailRP.
 
 
-10. Police officers and SWAT may only do random weapon checks inside the PD.
+8. Having an un-holstered weapon is legal unless the law board says otherwise.
 
 
-11. Lightsabers can be made illegal, however, the lightsaber must be lit. A holstered lightsaber isn’t an arrestable offence.
+9. Police officers and SWAT may only do random weapon checks inside the PD.
 
-12. Civil Protection may only party with other CPs.
 
-13. Being a part of an in game clan is not the same as being in a party. If you did not join a party via !party you may not play by the party rules.
+10. Lightsabers can be made illegal, however, the lightsaber must be lit. A holstered lightsaber isn’t an arrestable offense.
 
-14. Suicide Bombers may not do any criminal activities besides Jihad bombing.
+11. Civil Protection may only party with other CPs.
 
-15. Only thieves can counter, other criminals can not.
+12. Suicide Bombers may not do any criminal activities besides Jihad bombing.
 
-16. Auto-clicking Casino machines are not allowed; however, you can still auto-click mining.
+13. Only thieves can counter, other criminals can not.
+
+14. Auto-clicking Casino machines are not allowed; however, you can still auto-click mining.
+
+15. You can't build in mining areas.
 
 ## The following actions must be Adverted:
 
@@ -250,72 +250,72 @@ If you are in a party you may do the following:
 10. While your building sign is placed, you shouldn't have any valuables/entities inside your base.
     Example: Placing printers inside the base with a building sign. (Or any other item purchasable through the F4 Menu or Tablet).
 
-12. You may not have more than 5 fading doors operated by keypads per base.
+11. You may not have more than 5 fading doors operated by keypads per base.
     Note: Only 3 fading doors allowed at your entrance
 
-13. Players should only have to crack each keypad once upon entry and once upon exit.
+12. Players should only have to crack each keypad once upon entry and once upon exit.
     Example: Bases that loop around requiring you to crack one fading door multiple times.
 
-14. You may block off excess entrances to your base.
+13. You may block off excess entrances to your base.
     Example: Blocking windows, backdoors, garage doors, etc.
 
-15. You may not megabase
+14. You may not megabase
 
-16. You may not have a base designed to trap people.
+15. You may not have a base designed to trap people.
 
-17. You must be active within a base which you own the doors for.
+16. You must be active within a base which you own the doors for.
 
-18. You may not own multiple buildings unless your job allows for it.
+17. You may not own multiple buildings unless your job allows for it.
 
-19. Players may NOT build on rooftops or anywhere that does not have buyable doors (Only build in buildings that are part of the map).
+18. Players may NOT build on rooftops or anywhere that does not have buyable doors (Only build in buildings that are part of the map).
     Example: Making your own building in the mines, streets, beach, etc.
     Note: Staff may allow you to build in certain locations. Ask for permission from high staff first!
 
-20. You may not spawn or edit the brightness of lights over 512 and a magnitude of 2.
+19. You may not spawn or edit the brightness of lights over 512 and a magnitude of 2.
 
-21. You must own all of the exterior doors to a building in order to build upon it.
+20. You must own all of the exterior doors to a building in order to build upon it.
 
-22. You cannot force someone to crouch during a raid for ANY reason
+21. You cannot force someone to crouch during a raid for ANY reason
     Example: Crouching to shoot back, crouching to crack keypads, etc.
 
-23. All keypads must have a hold length of at least 5 seconds.
+22. All keypads must have a hold length of at least 5 seconds.
 
-24. The lobby of PD must be accessible at all times
+23. The lobby of PD must be accessible at all times
 
-25. You cannot make it AOS/KOS to enter the lobby with a text screen or law.
+24. You cannot make it AOS/KOS to enter the lobby with a text screen or law.
 
-26. You may not materialize fences in a way that makes them one way. Material that blocks both parties and or impairs both parties is fine.
+25. You may not materialize fences in a way that makes them one way. Material that blocks both parties and or impairs both parties is fine.
 
-27. Do not set up an unfair advantage in a firefight within your base
+26. Do not set up an unfair advantage in a firefight within your base
     Example: Where you can see and or shoot someone, but they cannot see or shoot back or any other unfair advantage.
     
-28. One-ways of any type are not allowed.
+27. One-ways of any type are not allowed.
     
-29. No invisible props, buttons or keypads.
+28. No invisible props, buttons or keypads.
 
-30. Blackout/Colorout bases are not allowed.
+29. Blackout/Colorout bases are not allowed.
 
-31. Maze bases are not allowed.
+30. Maze bases are not allowed.
 
-32. All entities are considered props - this includes cameras, text-screens, etc.
+31. All entities are considered props - this includes cameras, text-screens, etc.
 
-33. Keypads must be visible and directly beside the prop which they operate.
+32. Keypads must be visible and directly beside the prop which they operate.
 
-34. Do not materialize or hide keypads/buttons.
+33. Do not materialize or hide keypads/buttons.
 
-35. You may not no-collide props to act as hidden doors.
+34. You may not no-collide props to act as hidden doors.
 
-36. No faulty keypads (keypads disconnected from a fading door).
+35. No faulty keypads (keypads disconnected from a fading door).
 
-37. No crouch bases (forcing another user to crouch in order to enter your base).
+36. No crouch bases (forcing another user to crouch in order to enter your base).
 
-38. You cannot force someone to crouch during a raid for ANY reason
+37. You cannot force someone to crouch during a raid for ANY reason
 
-39. Crouching to shoot back, crouching to crack keypads, etc.
+38. Crouching to shoot back, crouching to crack keypads, etc.
 
-40. Sitting on a No-Collided prop to force yourself into someone's base will result in a permanent ban! Staff will count this as exploiting.
+39. Sitting on a No-Collided prop to force yourself into someone's base will result in a permanent ban! Staff will count this as exploiting.
  
-
+40. Button window fading doors are allowed as long as both parties can see eachother when it is closed and opened.
 
 
 
