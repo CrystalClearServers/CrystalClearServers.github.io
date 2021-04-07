@@ -231,7 +231,8 @@ If you are in a party you may do the following:
 3. Obscure KOS or Building signs are prohibited, they must all viewable for all players.
     Note: KOS or Building text screens must be a minimum size of 50.
 
-4. You may only build on the inside of your base.
+4. You may only build on the inside of your base. KOS lines outside of your base are fine as long as they don't extend into the street. 
+    Note: If staff deem your KOS line to be excessive, you will be asked to change it.
 
 5. Your base must be raidable by all classes with raiding capabilities.
     Example: CP, Thieves, etc.
@@ -248,7 +249,7 @@ If you are in a party you may do the following:
     Example: Placing printers inside the base with a building sign. (Or any other item purchasable through the F4 Menu or Tablet).
 
 12. You may not have more than 5 fading doors operated by keypads per base.
-	Note: Only 3 fading doors allowed at your entrance
+    Note: Only 3 fading doors allowed at your entrance
 
 13. Players should only have to crack each keypad once upon entry and once upon exit.
     Example: Bases that loop around requiring you to crack one fading door multiple times.
@@ -264,7 +265,9 @@ If you are in a party you may do the following:
 
 18. You may not own multiple buildings unless your job allows for it.
 
-19. Players may NOT build on rooftops.
+19. Players may NOT build on rooftops or anywhere that does not have buyable doors (Only build in buildings that are part of the map).
+    Example: Making your own building in the mines, streets, beach, etc.
+    Note: Staff may allow you to build in certain locations. Ask for permission from high staff first!
 
 20. You may not spawn or edit the brightness of lights over 512 and a magnitude of 2.
 
@@ -279,34 +282,36 @@ If you are in a party you may do the following:
 
 25. You cannot make it AOS/KOS to enter the lobby with a text screen or law.
 
-26. You may not materialize fences.
+26. You may not materialize fences in a way that makes them one way. Solid material is fine.
 
 27. Do not set up an unfair advantage in a firefight within your base
-    Example: Where you can see and shoot someone, but they cannot see or shoot back or any other unfair advantage.
+    Example: Where you can see and or shoot someone, but they cannot see or shoot back or any other unfair advantage.
+    
+28. Any type of one-way is not allowed.
+    
+29. No invisible props, buttons or keypads.
 
-28. No invisible props, buttons or keypads.
+30. Blackout/Colorout bases are not allowed.
 
-27. Blackout/Colorout bases are not allowed.
+31. Maze bases are not allowed.
 
-29. Maze bases are not allowed.
+32. All entities are considered props - this includes cameras, text-screens, etc.
 
-30. All entities are considered props - this includes cameras, text-screens, etc.
+33. Keypads must be visible and directly beside the prop which they operate.
 
-31. Keypads must be visible and directly beside the prop which they operate.
+34. Do not materialize or hide keypads/buttons.
 
-32. Do not materialize or hide keypads/buttons.
+35. You may not no-collide props to act as hidden doors.
 
-33. You may not no-collide props to act as hidden doors.
+36. No faulty keypads (keypads disconnected from a fading door).
 
-34. No faulty keypads (keypads disconnected from a fading door).
+37. No crouch bases (forcing another user to crouch in order to enter your base).
 
-35. No crouch bases (forcing another user to crouch in order to enter your base).
+38. You cannot force someone to crouch during a raid for ANY reason
 
-36. You cannot force someone to crouch during a raid for ANY reason
+39. Crouching to shoot back, crouching to crack keypads, etc.
 
-37. Crouching to shoot back, crouching to crack keypads, etc.
-
-38. Sitting on a No-Collided prop to force yourself into someone's base will result in a permanent ban! Staff will count this as exploiting.
+40. Sitting on a No-Collided prop to force yourself into someone's base will result in a permanent ban! Staff will count this as exploiting.
  
 
 
