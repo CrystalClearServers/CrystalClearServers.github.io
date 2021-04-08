@@ -315,7 +315,7 @@ If you are in a party you may do the following:
 
 39. Sitting on a No-Collided prop to force yourself into someone's base will result in a permanent ban! Staff will count this as exploiting.
  
-40. Button window fading doors are allowed as long as both parties can see eachother when it is closed and opened.
+40. Button fading doors are allowed as long as both parties can see eachother when it is closed and opened.
 
 
 
