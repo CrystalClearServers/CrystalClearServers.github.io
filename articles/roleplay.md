@@ -291,7 +291,7 @@ If you are in a party you may do the following:
     
 27. One-ways of any type are not allowed.
     
-28. No invisible props, buttons or keypads.
+28. No invisible props, No invisible buttons or No invisible keypads.
 
 29. Blackout/Colorout bases are not allowed.
 
