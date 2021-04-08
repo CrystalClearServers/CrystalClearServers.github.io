@@ -287,7 +287,7 @@ If you are in a party you may do the following:
 25. You may not materialize fences in a way that makes them one way. Material that blocks both parties and or impairs both parties is fine.
 
 26. Do not set up an unfair advantage in a firefight within your base
-    Example: Where you can see and or shoot someone, but they cannot see or shoot back or any other unfair advantage.
+    Example: You can see and or shoot someone, but they cannot see or shoot back or any other unfair advantage.
     
 27. One-ways of any type are not allowed.
     
