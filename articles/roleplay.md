@@ -124,11 +124,6 @@ Sewer monsters are exempt from this rule as long as they are killed in the sewer
 5. No multi adverts are allowed. (Ex. /advert raid/over/assist, mug/kidnap/warn)
 
 
-6. Sewer monsters are KOS anywhere, including the sewers.
-
-7. Sewer monsters are not allowed to leave the sewers. This is FailRP.
-
-
 8. Having an un-holstered weapon is legal unless the law board says otherwise.
 
 
@@ -138,8 +133,6 @@ Sewer monsters are exempt from this rule as long as they are killed in the sewer
 10. Lightsabers can be made illegal, however, the lightsaber must be lit. A holstered lightsaber isn’t an arrestable offense.
 
 11. Civil Protection may only party with other CPs.
-
-12. Suicide Bombers may not do any criminal activities besides Jihad bombing.
 
 13. Only thieves can counter, other criminals can not.
 
@@ -166,8 +159,6 @@ Sewer monsters are exempt from this rule as long as they are killed in the sewer
 - Kidnapping
 
 - Police raids
-
-- Terror (Classes with Jihad bomb only)
 
 
 ## Role-playing Rules: 
@@ -243,7 +234,7 @@ If you are in a party you may do the following:
 
 7. If you have a building sign placed on the building you're basing in and are actively building, you're immune to muggings and raids against yourself.
 
-8. You may not have a building sign and a kos sign simultaneously.
+8. You may not have a building sign and a KOS sign simultaneously.
 
 9. If a building sign is placed on the exterior of a building all roleplay is paused inside of the building.
 
@@ -275,8 +266,9 @@ If you are in a party you may do the following:
 
 20. You must own all of the exterior doors to a building in order to build upon it.
 
-21. You cannot force someone to crouch during a raid for ANY reason
-    Example: Crouching to shoot back, crouching to crack keypads, etc.
+21. No crouch bases (forcing another user to crouch in order to enter your base).
+    Note: You cannot force someone to crouch during a raid for ANY reason
+          Example: Crouching to shoot back, crouching to crack keypads, etc.
 
 22. All keypads must have a hold length of at least 5 seconds.
 
@@ -295,7 +287,7 @@ If you are in a party you may do the following:
 
 29. Blackout/Colorout bases are not allowed.
 
-30. Maze bases are not allowed.
+30. Maze/zigzag bases are not allowed. Anything over 3 turns is defined as a maze or zigzag base.
 
 31. All entities are considered props - this includes cameras, text-screens, etc.
 
@@ -307,15 +299,9 @@ If you are in a party you may do the following:
 
 35. No faulty keypads (keypads disconnected from a fading door).
 
-36. No crouch bases (forcing another user to crouch in order to enter your base).
-
-37. You cannot force someone to crouch during a raid for ANY reason
-
-38. Crouching to shoot back, crouching to crack keypads, etc.
-
-39. Sitting on a No-Collided prop to force yourself into someone's base will result in a permanent ban! Staff will count this as exploiting.
+36. Sitting on a No-Collided prop to force yourself into someone's base will result in a permanent ban! Staff will count this as exploiting.
  
-40. Button fading doors are allowed as long as both parties can see eachother when it is closed and opened.
+37. Button fading doors are allowed as long as both parties can see eachother when it is closed and opened.
 
 
 
@@ -343,8 +329,6 @@ If you are in a party you may do the following:
 - Rape same person = 10 Minutes
 
 - Bank raid = 20 Minutes (The cooldown is shared between everyone on the server)
-
-- Terror = 10 Minutes (Classes With Jihad Bombs Only)
 
 !> Assisting, Stealing, and Countering have NO Cooldown.
 
@@ -378,15 +362,11 @@ If you are in a party you may do the following:
 9. Raiding a base that’s open and has no props or printers in it is not allowed. An open base is defined as a base that you can walk into and freely explore the base without being attacked. 
 
 
-10. Paramedics cannot defib players in an active raid, only when that raid is over. 
-
-
-11. You may not use the Antman Swep during raids to glitch through people's props, however you may use it to slide through gaps and other flaws in the base design.
 
 ## Mugging Rules:
 
 
-1. The Max Mug is $10,000
+1. The Max Mug is $50,000
 
 
 2. Classes that can mug: thief, bank robber, and all custom classes
@@ -427,10 +407,12 @@ If you are in a party you may do the following:
 1. Corrupt Civil Protection members are not allowed.
 
 
-2. You may arrest a player for default laws when there is no mayor.
+2. There must be a mayor to enforce laws that are not the default laws (1-3).
+   Note: You may arrest a player for default laws when there is no mayor.
 
 
-3. If a law on the law board says (KOS/AOS) you may be either arrested or killed when breaking a law.
+3. If a law on the law board says (AOS/KOS) you may be either arrested or killed when breaking a law.
+   Note: Police must try to arrest first; after 5 seconds, they may kill the player resisting arrest.
 
 
 4. Bank security is NOT a part of Civil Protection. The only case where they may enforce the laws is when defending the bank.
@@ -469,7 +451,7 @@ If you are in a party you may do the following:
 15. Police may not lock the front door of the Police Department.
 
 
-16. If you leave your cell while arrested you are KOS/AOS..
+16. If you leave your cell while arrested you are AOS/KOS...
 
 
 17. The mayor, police officers, secret service and bank security are allowed to own money printers as long as they are stored in the bank.
