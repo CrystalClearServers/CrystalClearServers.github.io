@@ -271,7 +271,7 @@ If you are in a party you may do the following:
 
 21. No crouch bases (forcing another user to crouch in order to enter your base).
     Note: You cannot force someone to crouch during a raid for ANY reason
-          Example: Crouching to shoot back, crouching to crack keypads, etc.
+    Example: Crouching to shoot back, crouching to crack keypads, etc.
 
 22. All keypads must have a hold length of at least 5 seconds.
 
