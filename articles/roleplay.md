@@ -124,21 +124,21 @@ Sewer monsters are exempt from this rule as long as they are killed in the sewer
 5. No multi adverts are allowed. (Ex. /advert raid/over/assist, mug/kidnap/warn)
 
 
-8. Having an un-holstered weapon is legal unless the law board says otherwise.
+6. Having an un-holstered weapon is legal unless the law board says otherwise.
 
 
-9. Police officers and SWAT may only do random weapon checks inside the PD.
+7. Police officers and SWAT may only do random weapon checks inside the PD.
 
 
-10. Lightsabers can be made illegal, however, the lightsaber must be lit. A holstered lightsaber isn’t an arrestable offense.
+8. Lightsabers can be made illegal, however, the lightsaber must be lit. A holstered lightsaber isn’t an arrestable offense.
 
-11. Civil Protection may only party with other CPs.
+9. Civil Protection may only party with other CPs.
 
-13. Only thieves can counter, other criminals can not.
+10. Only thieves can counter, other criminals can not.
 
-14. Auto-clicking/macroing Casino machines are not allowed; however, you can still auto-click mining.
+11. Auto-clicking/macroing Casino machines are not allowed; however, you can still auto-click mining.
 
-15. You can't build in mining areas.
+12. You can't build in mining areas.
 
 ## The following actions must be Adverted:
 
@@ -291,7 +291,7 @@ If you are in a party you may do the following:
 
 31. All entities are considered props - this includes cameras, text-screens, etc.
 
-32. Keypads must be visible and directly beside the prop which they operate.
+32. Keypads must be visible and directly beside the prop which they operate (bases must have keypads).
 
 33. Do not materialize or hide keypads/buttons.
 
@@ -302,6 +302,13 @@ If you are in a party you may do the following:
 36. Sitting on a No-Collided prop to force yourself into someone's base will result in a permanent ban! Staff will count this as exploiting.
  
 37. Button fading doors are allowed as long as both parties can see eachother when it is closed and opened.
+
+38. Bases may not restrict players movement.
+    Example: Crouching, jumping, pixel walkways, etc.
+    
+39. Pixel Fading Doors are not allowed. You must be able to use a lock pick on any part of the door/prop.
+
+40. Gangs may base around their flags in order to protect claimed territory.
 
 
 
