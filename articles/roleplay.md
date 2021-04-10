@@ -258,9 +258,9 @@ If you are in a party you may do the following:
 
 17. You may not own multiple buildings unless your job allows for it.
 
-18. Players may NOT build on rooftops or anywhere that does not have buyable doors (Only build in buildings that are part of the map).
-    Example: Making your own building in the mines, streets, beach, etc.
-    Note: Staff may allow you to build in certain locations. Ask for permission from high staff first!
+18. Players may NOT build on rooftops or anywhere that does not have buyable doors.
+	Note: Only build in buildings that are part of the map. Attaching props to the outside of the building is allowed in specific locations.
+	Example: Making your own building in the mines, streets, beach, etc.
 
 19. You may not spawn or edit the brightness of lights over 512 and a magnitude of 2.
 
