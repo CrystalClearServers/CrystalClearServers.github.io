@@ -202,6 +202,9 @@ Sewer monsters are exempt from this rule as long as they are killed in the sewer
 13. You are not to give out/sell spawnable lightsabers.
 
 
+14. If you defib someone that was killed, you are KOS by the person who killed the defibbed player.
+
+
 
 ## Party Rules:
 
