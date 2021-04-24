@@ -6,53 +6,60 @@ Therefore, staff may enforce rules to fill up the loopholes that come up.
 
 If a player is found abusing these loopholes, warnings will be given followed up by a punishment if required.
 
+## Infraction Consequences
+
+The following actions may be taken in this order [unless violating a more serious offense]:
+
+∘ Players shall be warned about the rule they have broken.
+
+∘ Will be jailed or kicked from the server if they continue to break a rule.
+
+∘ A ban will be issued for a term of 2-4 days (depending on what occured)
+
+∘ A permanent ban will be issued and shall not be removed
+
+∘ 3 Warns = Kick / 5 Warns = 2-4 day ban (depending on what occured)
+
 ## General Rules:
 
-1. Cheating, exploits, or the use of scripts are not allowed on the server.
+1.  Cheating, exploits, or the use of scripts are not allowed on the server.
 
+2.  Do not randomly kill someone (RDM - Random Death Match)
 
-2. Do not randomly kill someone (RDM - Random Death Match)
-
-
-3. Warn Advertising
+3.  Warn Advertising
     - Use this when a player is following you to a place that you do not want them to.
     - Tell them to stop and do Warn 1, 2, and 3 in separate adverts with a minimum of 5 seconds apart.
     - You may also do this if a player is body-blocking you in or out of a building.
 
+4.  Do not disrespect players in the Out of Character Chat (OOC) as it will not be tolerated.
 
-4. Do not disrespect players in the Out of Character Chat (OOC) as it will not be tolerated.
+5.  Do not prop abuse.
+	- This includes prop climb, prop surf, prop kill, prop block, prop push, prop trap or prop spam.
 
+6.  Body-blocking is not allowed and you may be killed by players, but they must give you three warnings via /advert.
 
-5. Do not prop abuse.
-    - This includes prop climb, prop surf, prop kill, prop block, prop push, prop trap or prop spam.
+7.  Minging/NITRP or actions that could cause you to be seen as a disruption to other players is not allowed on the server.
 
+8.  Scamming players out of IRL money/items will result in a permanent ban, although scamming in-game items is allowed
 
-7. Body-blocking is not allowed and you may be killed by players, but they must give you three warnings via /advert.
+9. Do not impersonate any Staff Members.
 
+10. Evading a ban by using an alternate account will result in a permanent ban on both accounts.
 
-8. Minging/NITRP or actions that could cause you to be seen as a disruption to other players is not allowed on the server.
-
-
-9. Scamming players out of IRL money/items will result in a permanent ban, although scamming in-game items is allowed
-
-
-10. Do not impersonate any Staff Members. 
-
-
-11. Evading a ban by using an alternate account will result in a permanent ban on both accounts.
-
+11. This server does not allow any form of the N-Word (or racism at all), Homophobic remarks (homophobia), Sexist remarks (sexism), anti-religion, etc.
+	- Depending on the severity, it can be a ZERO tolerance situation resulting in a ban.
 
 12. No Harassment towards players or staff. This includes homophobia, threats, racism, sexism, anti-religion, etc.
-    - Depending on the severity, it can be a ZERO tolerance situation resulting in a ban.
+	- Depending on the severity, it can be a ZERO tolerance situation resulting in a ban.
 
 13. No voice changers or soundboards; the only exception is DJs and Hobos.
 
 14. Discussing DDoS is not allowed.
-    - If you are heard or reported doing this, you will be permanently banned.
+	- If you are heard or reported doing this, you will be permanently banned.
 
 15. Alt accounts are not tolerated.
-    - If we suspect someone is alting on the Staff Team has the right to check the IP address associated with the account. 
-    - If you have siblings who play be sure to let us know. 
+	- If we suspect someone is alting on the Staff Team has the right to check the IP address associated with the account.
+	- If you have siblings who play be sure to let us know.
 
 !> Some rules may be implemented by staff that are not mentioned here due to loopholes. If you feel that you have been treated unfairly, you may make a report on our [Discord server](https://discord.gg/H3ztBSer).
 
@@ -176,7 +183,8 @@ Sewer monsters are exempt from this rule as long as they are killed in the sewer
 4. In order to kill players who enter your base, a KOS line or sign is required. You must state what action will get them killed. (Ex. KOS if passed line, KOS if guns out)
 
 
-5. You may only defend people if you are affiliated with them somehow. (Party, RP relationship, same job, etc.) This does not include countering a raid.
+5.  You may only defend people if you are in a gang or based together. This does not include countering a raid.
+    - CP is only affiliated with other CP.
 
 
 6. Hobos may not own doors including fading doors. They also cannot be arrested/killed during lockdown due to not having a base, however they may be asked to stay inside the PD.
@@ -199,10 +207,7 @@ Sewer monsters are exempt from this rule as long as they are killed in the sewer
 12. No one is allowed to be above the law and only government jobs are allowed to enforce it.
 
 
-13. You are not to give out/sell spawnable lightsabers.
-
-
-14. If you defib someone that was killed, you are KOS by the person who killed the defibbed player.
+13. If you defib someone that was killed, you are KOS by the person who killed the defibbed player.
 
 
 
@@ -470,6 +475,8 @@ If you are in a party you may do the following:
 18. Sweps can only be made illegal if they can deal damage to a player. 
 
 19. You may not build in the police department, or lock the doors while it is under attack or being raided.
+
+20. CP has no gang affiliation as they play a separate role in jobs. (Killing a fellow CP due to them not being in your gang).
 
 ## Default Laws Of The Land:
 
