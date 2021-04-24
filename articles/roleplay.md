@@ -10,15 +10,17 @@ If a player is found abusing these loopholes, warnings will be given followed up
 
 The following actions may be taken in this order [unless violating a more serious offense]:
 
-∘ Players shall be warned about the rule they have broken.
+∘ Players shall be verbally warned or warned through our warning system about the rule they have broken.
 
-∘ Will be jailed or kicked from the server if they continue to break a rule.
+∘ After a 2nd infraction, players may be jailed to go over the MOTD and receive a warn in the warning system.
 
-∘ A ban will be issued for a term of 2-4 days (depending on what occured)
+∘ Players will be kicked after a 3rd warn is inputed into the warning system.
 
-∘ A permanent ban will be issued and shall not be removed
+∘ A ban will be issued for a term of 2-4 days (depending on what occured) after recieving a 5th warn in the warning system.
 
-∘ 3 Warns = Kick / 5 Warns = 2-4 day ban (depending on what occured)
+∘ 3 Warns = Kick / 5 Warns = 2-4 day ban (depending on what occured). Warns will become inactive after 24 hours.
+
+∘ For more serious offsenses a permanent ban may be issued and shall not be removed.
 
 ## General Rules:
 
