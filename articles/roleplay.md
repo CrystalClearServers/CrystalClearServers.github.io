@@ -229,13 +229,14 @@ If you are in a party you may do the following:
 1. You may only kill someone inside your base if you have a KOS sign on the outside of your building.
 
 2. Do not build in the streets unless you're a hobo.
-    Note: This includes partially blocking streets, checkpoints, megabases, etc.
+    - This includes partially blocking streets, checkpoints, megabases, etc.
 
 3. Obscure KOS or Building signs are prohibited, they must all viewable for all players.
-    Note: KOS or Building text screens must be a minimum size of 50.
+    - KOS or Building text screens must be a minimum size of 50.
 
 4. You may only build on the inside of your base. KOS lines outside of your base are fine as long as they don't extend into the street. 
-    Note: If staff deem your KOS line to be excessive, you will be asked to change it.
+    - You do not need a "will chase" sign to kill someone for crossing a KOS line.
+    - If staff deem your KOS line to be excessive, you will be asked to change it.
 
 5. Your base must be raidable by all classes with raiding capabilities.
     Example: CP, Thieves, etc.
@@ -269,16 +270,16 @@ If you are in a party you may do the following:
 17. You may not own multiple buildings unless your job allows for it.
 
 18. Players may NOT build on rooftops or anywhere that does not have buyable doors.
-	Note: Only build in buildings that are part of the map. Attaching props to the outside of the building is allowed in specific locations.
-	Example: Making your own building in the mines, streets, beach, etc.
+	- Only build in buildings that are part of the map. Attaching props to the outside of the building is allowed in specific locations.
+	- Example: Making your own building in the mines, streets, beach, etc.
 
 19. You may not spawn or edit the brightness of lights over 512 and a magnitude of 2.
 
 20. You must own all of the exterior doors to a building in order to build upon it.
 
 21. No crouch bases (forcing another user to crouch in order to enter your base).
-    Note: You cannot force someone to crouch during a raid for ANY reason
-    Example: Crouching to shoot back, crouching to crack keypads, etc.
+    - You cannot force someone to crouch during a raid for ANY reason
+    - Example: Crouching to shoot back, crouching to crack keypads, etc.
 
 22. All keypads must have a hold length of at least 5 seconds.
 
@@ -289,7 +290,7 @@ If you are in a party you may do the following:
 25. You may not materialize fences in a way that makes them one way. Material that blocks both parties and or impairs both parties is fine.
 
 26. Do not set up an unfair advantage in a firefight within your base
-    Example: You can see and or shoot someone, but they cannot see or shoot back or any other unfair advantage.
+    - Example: You can see and or shoot someone, but they cannot see or shoot back or any other unfair advantage.
     
 27. One-ways of any type are not allowed.
     
@@ -314,12 +315,13 @@ If you are in a party you may do the following:
 37. Button fading doors are allowed as long as both parties can see eachother when it is closed and opened.
 
 38. Bases may not restrict players movement.
-    Example: Crouching, jumping, pixel walkways, etc.
+    - Example: Crouching, jumping, pixel walkways, etc.
     
 39. Pixel Fading Doors are not allowed. You must be able to use a lock pick on any part of the door/prop.
 
 40. Gangs may base around their flags in order to protect claimed territory.
 
+41. You may not use no-collided props in a base for any reason. The only exception is props that can be shot through.
 
 
 ## All Cooldowns:
