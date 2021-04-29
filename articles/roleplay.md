@@ -189,27 +189,29 @@ Sewer monsters are exempt from this rule as long as they are killed in the sewer
     - CP is only affiliated with other CP.
 
 
-6. Hobos may not own doors including fading doors. They also cannot be arrested/killed during lockdown due to not having a base, however they may be asked to stay inside the PD.
+6. Hobos may not own doors/fading doors with keypads. They also cannot be arrested/killed during lockdown due to not having a base, however they may be asked to stay inside the PD.
+     -  Hobos can have fading doors that utilize buttons.
+
+7. Hobos cannot own raidables or be raided.
+
+8. The mayor and police officers cannot have a base, however they may base inside the PD as long as there is no prop blocking. They may also build directly outside the PD on the sidewalk.
 
 
-7. The mayor and police officers cannot have a base, however they may base inside the PD as long as there is no prop blocking. They may also build directly outside the PD on the sidewalk.
+9. Hobos and DJs may play music, but they must be stationary or on a stage. Earrape/racist music or anything other than music is not allowed.
 
 
-8. Hobos and DJs may play music, but they must be stationary or on a stage. Earrape/racist music or anything other than music is not allowed.
+10. If you accidentally shoot someone while trying to kill a player, /advert Crossfire and apologize, otherwise this may be taken as attempted rdm.
+
+11. If you are part of a party raid and are killed, you can't go back if your squad members are still raiding. Even after your NLR timer is up, once you die and respawn the raid is over for you.
 
 
-9. If you accidentally shoot someone while trying to kill a player, /advert Crossfire and apologize, otherwise this may be taken as attempted rdm.
-
-10. If you are part of a party raid and are killed, you can't go back if your squad members are still raiding. Even after your NLR timer is up, once you die and respawn the raid is over for you.
+12. Adverts cannot be colored. (only the standard yellow adverts allowed)
 
 
-11. Adverts cannot be colored. (only the standard yellow adverts allowed)
+13. No one is allowed to be above the law and only government jobs are allowed to enforce it.
 
 
-12. No one is allowed to be above the law and only government jobs are allowed to enforce it.
-
-
-13. If you defib someone that was killed, you are KOS by the person who killed the defibbed player.
+14. If you defib someone that was killed, you are KOS by the person who killed the defibbed player.
 
 
 
