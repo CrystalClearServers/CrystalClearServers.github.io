@@ -8,7 +8,7 @@
 
 - Scroll down to view articles.
 
-[Connect to RP](steam://connect/209.222.104.38:27030/)
+[Connect to RP](steam://connect/192.186.154.85:27035/)
 [Discord](https://discord.gg/H3ztBSer)
 
 ![Update](assets/updatebg.png)
