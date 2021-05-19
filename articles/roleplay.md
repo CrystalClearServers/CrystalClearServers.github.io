@@ -6,6 +6,10 @@ Therefore, staff may enforce rules to fill up the loopholes that come up.
 
 If a player is found abusing these loopholes, warnings will be given followed up by a punishment if required.
 
+No, this isn't for staff to be abusive, not every rule can be thought of, and not every little thing will be in this MOTD.
+
+Because of this, please make suggestions if you feel we have missed something significant in our rules or have made an error.
+
 ## Infraction Consequences
 
 The following actions may be taken in this order [unless violating a more serious offense]:
@@ -33,7 +37,7 @@ The following actions may be taken in this order [unless violating a more seriou
     - Tell them to stop and do Warn 1, 2, and 3 in separate adverts with a minimum of 5 seconds apart.
     - You may also do this if a player is body-blocking you in or out of a building.
 
-4.  Do not disrespect players in the Out of Character Chat (OOC) as it will not be tolerated.
+4.  Do not disrespect players in the Out of Character Chat (OOC); you will be muted, as it will not be tolerated.
 
 5.  Do not prop abuse.
 	- This includes prop climb, prop surf, prop kill, prop block, prop push, prop trap or prop spam.
@@ -42,7 +46,7 @@ The following actions may be taken in this order [unless violating a more seriou
 
 7.  Minging/NITRP or actions that could cause you to be seen as a disruption to other players is not allowed on the server.
 
-8.  Scamming players out of IRL money/items will result in a permanent ban, although scamming in-game items is allowed
+8.  Scamming players out of IRL money/items will result in a permanent ban, although scamming in-game items is allowed.
 
 9. Do not impersonate any Staff Members.
 
@@ -97,7 +101,7 @@ Do not randomly kill someone. (RDM - Random Death Match)
 
 - You have not given out a warning.
 
-- The person is breaking a rule. (Call for staff)
+- The person is breaking a rule. (Call for staff!)
 
 - The person is annoying you. (You MUST advert warnings before doing so)
 
@@ -113,7 +117,6 @@ If you are caught interacting with your previous life within 5 minutes of your d
 
 NLR does NOT apply to the mayor, SWAT and secret service if they die in a PD or bank raid, however it does apply for them in any other situation.
 
-Sewer monsters are exempt from this rule as long as they are killed in the sewers.
 
 ## Common Misunderstandings:
 
@@ -141,19 +144,17 @@ Sewer monsters are exempt from this rule as long as they are killed in the sewer
 
 8. Lightsabers can be made illegal, however, the lightsaber must be lit. A holstered lightsaber isn’t an arrestable offense.
 
-9. Civil Protection may only party with other CPs.
+9. Civil Protection may only associate with other CPs.
 
 10. Only thieves can counter, other criminals can not.
 
-11. Auto-clicking/macroing Casino machines are not allowed; however, you can still auto-click mining.
+11. Auto-clicking/macroing Casino machines or ores in the mine is not allowed.
 
 12. You can't build in mining areas.
 
 ## The following actions must be Adverted:
 
 - Stealing
-
-- Raping 
 
 - Raiding
 
@@ -179,7 +180,7 @@ Sewer monsters are exempt from this rule as long as they are killed in the sewer
 2. Changing jobs, running into spawn, disconnecting or suiciding to get out of a kidnap or mug is FailRP and is not allowed.
 
 
-3. When/if you are wanted by the police, you may only kill them if they are actively attempting to arrest or kill you. (Swinging Baton, Shooting Taser, Shooting you)
+3. When/if you are wanted by the police, you may only kill them if they are actively attempting to arrest or kill you. (Handcuffing, Swinging Baton, Shooting Taser, Shooting you)
 
 
 4. In order to kill players who enter your base, a KOS line or sign is required. You must state what action will get them killed. (Ex. KOS if passed line, KOS if guns out)
@@ -194,36 +195,35 @@ Sewer monsters are exempt from this rule as long as they are killed in the sewer
 
 7. Hobos cannot own raidables or be raided.
 
-8. The mayor and police officers cannot have a base, however they may base inside the PD as long as there is no prop blocking. They may also build directly outside the PD on the sidewalk.
+
+8. Hobos and DJs may play music, but they must be stationary or on a stage. Loud/racist music or anything other than music is not allowed.
+    -  Racist music is anything focused solely on a single race for the simple fact of being hateful.
 
 
-9. Hobos and DJs may play music, but they must be stationary or on a stage. Earrape/racist music or anything other than music is not allowed.
+9. If you accidentally shoot someone while trying to kill a player, /advert Crossfire and apologize, otherwise this may be taken as attempted rdm.
+    -  If caught abusing this rule, expect to be punished.
+
+10. If you are part of a party raid and are killed, you can't go back if your squad members are still raiding. Even after your NLR timer is up, once you die and respawn the raid is over for you.
 
 
-10. If you accidentally shoot someone while trying to kill a player, /advert Crossfire and apologize, otherwise this may be taken as attempted rdm.
-
-11. If you are part of a party raid and are killed, you can't go back if your squad members are still raiding. Even after your NLR timer is up, once you die and respawn the raid is over for you.
+11. No one is allowed to be above the law and only government jobs are allowed to enforce it.
 
 
-12. Adverts cannot be colored. (only the standard yellow adverts allowed)
-
-
-13. No one is allowed to be above the law and only government jobs are allowed to enforce it.
-
-
-14. If you defib someone that was killed, you are KOS by the person who killed the defibbed player.
+12. If you defib someone that was killed, you are KOS by the person who killed the defibbed player.
 
 
 
-## Party Rules:
+## Gang Rules:
 
-If you are in a party you may do the following:
+If you are in a gang you may do the following:
 
-- Kill the player that damaged your party member.
+- Kill the player that damaged your gang member.
 
-- Protect your party member from being arrested.
+- Protect your gang member from being arrested.
 
-- Avenge your party member if they were killed. (Only if you witnessed the action take place)
+- Avenge your gang member if they were killed. (Only if you witnessed the action take place)
+
+- Members of an allied gang are not part of these rules, only gang members.
 
 
 ## Building Rules:
@@ -273,7 +273,7 @@ If you are in a party you may do the following:
 
 18. Players may NOT build on rooftops or anywhere that does not have buyable doors.
 	- Only build in buildings that are part of the map. Attaching props to the outside of the building is allowed in specific locations.
-	- Example: Making your own building in the mines, streets, beach, etc.
+	- Example: Cannot make your own building in the mines, streets, beach, etc.
 
 19. You may not spawn or edit the brightness of lights over 512 and a magnitude of 2.
 
@@ -285,7 +285,7 @@ If you are in a party you may do the following:
 
 22. All keypads must have a hold length of at least 5 seconds.
 
-23. The lobby of PD must be accessible at all times
+23. The lobby of PD must be accessible at all times.
 
 24. You cannot make it AOS/KOS to enter the lobby with a text screen or law.
 
@@ -296,7 +296,7 @@ If you are in a party you may do the following:
     
 27. One-ways of any type are not allowed.
     
-28. No invisible props, No invisible buttons or No invisible keypads.
+28. No invisible props, No invisible buttons and No invisible keypads.
 
 29. Blackout/Colorout bases are not allowed.
 
@@ -321,7 +321,7 @@ If you are in a party you may do the following:
     
 39. Pixel Fading Doors are not allowed. You must be able to use a lock pick on any part of the door/prop.
 
-40. Gangs may base around their flags in order to protect claimed territory.
+40. Gangs may base near flags in order to protect claimed territory.
 
 41. You may not use no-collided props in a base for any reason. The only exception is props that can be shot through.
 
@@ -345,10 +345,6 @@ If you are in a party you may do the following:
 
     - You are only allowed to take a player hostage for a maximum of 20 Minutes.
 
-- Rape = 5 Minutes
-
-- Rape same person = 10 Minutes
-
 - Bank raid = 20 Minutes (The cooldown is shared between everyone on the server)
 
 !> Assisting, Stealing, and Countering have NO Cooldown.
@@ -356,7 +352,7 @@ If you are in a party you may do the following:
 
 ## Raiding Rules:
 
-1. You may raid as a thief, mercenary, bank robber, and any custom class.
+1. You may raid as a thief, mercenary, bank robber, and any custom class that fits the aforementioned jobs.
 
 
 2. You must wait 10 minutes in-between each raid.
@@ -406,6 +402,7 @@ If you are in a party you may do the following:
 
 
 7. Once you lose sight of the victim you cannot kill them.
+   - This does not mean if you hide behind a prop or turn a corner right in front of them it is automatically over (USE COMMON SENSE).
 
 
 ## Kidnapping Rules:
@@ -432,7 +429,7 @@ If you are in a party you may do the following:
    Note: You may arrest a player for default laws when there is no mayor.
 
 
-3. If a law on the law board says (AOS/KOS) you may be either arrested or killed when breaking a law.
+3. If a law on the law board says (AOS/KOS) only then may you be either arrested or killed when breaking that law.
    Note: Police must try to arrest first; after 5 seconds, they may kill the player resisting arrest.
 
 
