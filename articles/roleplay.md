@@ -148,9 +148,9 @@ NLR does NOT apply to the mayor, SWAT and secret service if they die in a PD or 
 
 10. Only thieves can counter, other criminals can not.
 
-11. Auto-clicking/macroing is not allowed on the server at all.
+11. You can't build in mining areas.
 
-12. You can't build in mining areas.
+12. Auto-clicking/macroing is not allowed on the server at all.
 
 ## The following actions must be Adverted:
 
