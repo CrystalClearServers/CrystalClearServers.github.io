@@ -353,6 +353,7 @@ If you are in a gang you may do the following:
 ## Raiding Rules:
 
 1. You may raid as a thief, mercenary, bank robber, and any custom class that fits the aforementioned jobs.
+    - Hitmen may raid bases, if they know their hit is in said base, in order to kill their target. Hitmen aren't allowed to take/damage raidables such as printers, meth/weed, bc miners, etc.
 
 
 2. You must wait 10 minutes in-between each raid.
