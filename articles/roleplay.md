@@ -325,6 +325,9 @@ If you are in a gang you may do the following:
 
 41. You may not use no-collided props in a base for any reason. The only exception is props that can be shot through.
 
+42. Bank Security may build in the bank to protect the vault.
+    - Can only build on the last two doors (past the counter, do not block the lobby).
+
 
 ## All Cooldowns:
 
