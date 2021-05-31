@@ -341,7 +341,7 @@ If you are in a gang you may do the following:
 17. You may not own multiple buildings unless your job allows for it.
 
 18. Players may build in tunnels and on top of roofs. (Building on Rooftops is fine as long as there is a way to get to them without use of sweps)
-        - Building in tunnels is fine as long as there is a way to get around the base and it does not block the tunnel.
+    - Building in tunnels is fine as long as there is a way to get around the base and it does not block the tunnel.
 	- Building on Rooftops is fine as long as there is a way to get to them without use of sweps.
 	- Not Allowed Examples: Cannot make your own building in the mines/sewers, beach, in/on the water, etc.
 
