@@ -115,7 +115,7 @@ If there is a raid, you may not return until the raid is over even once the 5 mi
 
 If you are caught interacting with your previous life within 5 minutes of your death, expect to be punished by staff.
 
-NLR does NOT apply to the mayor, SWAT and secret service if they die in a PD or bank raid, however it does apply for them in any other situation.
+NLR does NOT apply to the mayor, SWAT and secret service if they die in a PD raid, however it does apply for them in any other situation.
 
 
 ## Common Misunderstandings:
@@ -152,6 +152,9 @@ NLR does NOT apply to the mayor, SWAT and secret service if they die in a PD or 
 
 12. Auto-clicking/macroing is not allowed on the server at all.
 
+13. In order to steal a Pixel Kart, you must advert steal.
+   - Only Thieves and custom classes that are thieves are allowed to steal Pixel Karts.
+
 ## The following actions must be Adverted:
 
 - Stealing
@@ -164,7 +167,7 @@ NLR does NOT apply to the mayor, SWAT and secret service if they die in a PD or 
 
 - Countering a raid
 
-- PD/Bank raids
+- PD raids
 
 - Kidnapping
 
@@ -190,26 +193,92 @@ NLR does NOT apply to the mayor, SWAT and secret service if they die in a PD or 
     - CP is only affiliated with other CP.
 
 
-6. Hobos may not own doors/fading doors with keypads. They also cannot be arrested/killed during lockdown due to not having a base, however they may be asked to stay inside the PD.
+6. If you accidentally shoot someone while trying to kill a player, /advert Crossfire and apologize, otherwise this may be taken as attempted rdm.
+    -  If caught abusing this rule, expect to be punished.
+
+7. If you are part of a party raid and are killed, you can't go back if your squad members are still raiding. Even after your NLR timer is up, once you die and respawn the raid is over for you.
+
+
+8. No one is allowed to be above the law and only government jobs are allowed to enforce it.
+
+
+9. If you defib someone that was killed, you are KOS by the person who killed the defibbed player.
+
+
+Gun Dealer/Blackmarket Dealer Specific:
+
+
+10. If you are going to roleplay as a Gun Dealer you are required to have a shop, unless you are using it to self supply in accordance with current rules.
+
+
+11. Don't sell stuff that is obviously overpriced. (Going slightly overpriced in order to make profit is fine).
+
+
+12. Gun Dealers and Black Market Dealers can base together but cannot base with criminal classes.
+
+
+13. Gun license is NOT required for Gun Dealer/Black Market Dealer to sell guns unless the Laws say otherwise.
+
+
+Pet Rules:
+
+
+14. You're not allowed to own/have guns, knives are allowed.
+
+
+15. You can kill someone for killing your owner or violating your owner's KOS sign if you are based with them.
+
+
+16. You can build on the sidewalk/streets as long as it's not prop blocked, forcing players to walk through a tiny gap or considered to be a massive base/structure.
+
+
+17. You can only build on the sidewalk/street if you do not have an owner.
+
+
+18. You are not allowed to own any money printing entities.
+
+
+19. You may not own any property and must strictly build on the street/sidewalk (unless you have an owner with a base).
+
+
+Hobo Rules:
+
+
+20. Hobos may not own doors/fading doors with keypads. They also cannot be arrested/killed during lockdown due to not having a base, however they may be asked to stay inside the PD.
      -  Hobos can have fading doors that utilize buttons.
 
-7. Hobos cannot own raidables or be raided.
+21. Hobos cannot own raidables or be raided.
 
 
-8. Hobos and DJs may play music, but they must be stationary or on a stage. Loud/racist music or anything other than music is not allowed.
+22. Hobos and DJs may play music, but they must be stationary or on a stage. Loud/racist music or anything other than music is not allowed.
     -  Racist music is anything focused solely on a single race for the simple fact of being hateful.
 
 
-9. If you accidentally shoot someone while trying to kill a player, /advert Crossfire and apologize, otherwise this may be taken as attempted rdm.
-    -  If caught abusing this rule, expect to be punished.
-
-10. If you are part of a party raid and are killed, you can't go back if your squad members are still raiding. Even after your NLR timer is up, once you die and respawn the raid is over for you.
+23. You are not allowed to make massive homes/bases.
 
 
-11. No one is allowed to be above the law and only government jobs are allowed to enforce it.
+24. You can build on the sidewalk/streets as long as it's not prop blocked, forcing players to walk through a tiny gap or considered to be a massive base/structure.
 
 
-12. If you defib someone that was killed, you are KOS by the person who killed the defibbed player.
+25. You may not own any property and must strictly build on the street/sidewalk.
+
+
+26. This job may not raid, kidnap, mug or base on any property.
+
+
+Fight Manager:
+
+
+27. You are allowed to make an RDM Base that has specific restrictions (Melee's only, Guns only, etc.) and must clearly state it in a text screen.
+
+
+28. The RDM Base exempts everyone, within the base's boundaries, from breaking the New Life Rule and allows an individual to come back.
+
+
+29. Fighting Clubs / RDM Bases made by the Manager is legal (cannot be arrested for killing inside the base) unless a law is stated otherwise.
+
+
+30. You can only make RDM Bases within the owned property (cannot build on streets/sidewalk/in space).
 
 
 
@@ -271,9 +340,10 @@ If you are in a gang you may do the following:
 
 17. You may not own multiple buildings unless your job allows for it.
 
-18. Players may NOT build on rooftops or anywhere that does not have buyable doors.
-	- Only build in buildings that are part of the map. Attaching props to the outside of the building is allowed in specific locations.
-	- Example: Cannot make your own building in the mines, streets, beach, etc.
+18. Players may build in tunnels and on top of roofs. (Building on Rooftops is fine as long as there is a way to get to them without use of sweps)
+        - Building in tunnels is fine as long as there is a way to get around the base and it does not block the tunnel.
+	- Building on Rooftops is fine as long as there is a way to get to them without use of sweps.
+	- Not Allowed Examples: Cannot make your own building in the mines/sewers, beach, in/on the water, etc.
 
 19. You may not spawn or edit the brightness of lights over 512 and a magnitude of 2.
 
@@ -325,9 +395,6 @@ If you are in a gang you may do the following:
 
 41. You may not use no-collided props in a base for any reason. The only exception is props that can be shot through.
 
-42. Bank Security may build in the bank to protect the vault.
-    - Can only build on the last two doors (past the counter, do not block the lobby).
-
 
 ## All Cooldowns:
 
@@ -348,14 +415,12 @@ If you are in a gang you may do the following:
 
     - You are only allowed to take a player hostage for a maximum of 20 Minutes.
 
-- Bank raid = 20 Minutes (The cooldown is shared between everyone on the server)
-
 !> Assisting, Stealing, and Countering have NO Cooldown.
 
 
 ## Raiding Rules:
 
-1. You may raid as a thief, mercenary, bank robber, and any custom class that fits the aforementioned jobs.
+1. You may raid as a thief, mercenary, and any custom class that fits the aforementioned jobs.
     - Hitmen may raid bases, if they know their hit is in said base, in order to kill their target. Hitmen aren't allowed to take/damage raidables such as printers, meth/weed, bc miners, etc.
 
 
@@ -374,13 +439,10 @@ If you are in a gang you may do the following:
 6. You may raid the PD but you may not take over for more than 10 minutes.
 
 
-7. In order to raid the PD there must be a mayor and police officer online. (This includes SWAT)
+7. In order to raid the PD there must be a mayor and police officer online. (This includes SWAT).
 
 
-8. Bank Raid may only be performed by Bank Robbers or classes that have the same ability. There must be at least two PD members on this includes: Mayor, Police officers and or SWAT members.
-
-
-9. Raiding a base that’s open and has no props or printers in it is not allowed. An open base is defined as a base that you can walk into and freely explore the base without being attacked. 
+8. Raiding a base that’s open and has no props or printers in it is not allowed. An open base is defined as a base that you can walk into and freely explore the base without being attacked. 
 
 
 
@@ -390,7 +452,7 @@ If you are in a gang you may do the following:
 1. The Max Mug is $50,000
 
 
-2. Classes that can mug: thief, bank robber, and all custom classes
+2. Classes that can mug: thief and all custom classes that are thieves.
 
 
 3. You may not kill the player before waiting 10 seconds for them to drop the money, Unless they pull out a gun or run away.
@@ -437,53 +499,52 @@ If you are in a gang you may do the following:
    Note: Police must try to arrest first; after 5 seconds, they may kill the player resisting arrest.
 
 
-4. Bank security is NOT a part of Civil Protection. The only case where they may enforce the laws is when defending the bank.
+4. SWAT/Civil Protection MUST defend the PD and Mayor's vault whilst they are being raided. Not doing so is Fail RP.
 
 
-5. SWAT/Civil Protection MUST defend the PD and bank whilst they are being raided. Not doing so is Fail RP.
+5. Civil Protection members are NOT allowed to arrest hobos during a lockdown since they have no home.
 
 
-6. Civil Protection members are NOT allowed to arrest hobos during a lockdown since they have no home.
+6. Do not randomly weapon check someone unless they’re inside the PD.
 
 
-7. Do not randomly weapon check someone unless they’re inside the PD.
+7. Do not raid without a warrant. A building open to the public does not require a warrant to go into unless there is a closed-off private area such as a back room.
 
 
-8. Do not raid without a warrant. A building open to the public does not require a warrant to go into unless there is a closed-off private area such as a back room.
+8. The mayor and police officers may not have a base, however they may base inside the PD as long as there is no prop blocking. They may also build directly outside the PD on the sidewalk.
 
 
-9. The mayor and police officers may not have a base, however they may base inside the PD as long as there is no prop blocking. They may also build directly outside the PD on the sidewalk.
+9. Laws must make sense in a real life scenario. (No silly laws I.E. Breathing, Living, Walking, etc.)
+   - Targeting standard Garry's Mod items (Physgun, Toolgun, Gravity Gun, etc.) in laws is not allowed.
+   - There cannot be any laws that legalize random search warrants.
 
 
-10. Laws must make sense in a real life scenario. (No silly laws I.E. Breathing, Living, Walking, ect.)
+10. Jaywalking cannot be made illegal.
 
 
-11. Jaywalking cannot be made illegal.
+11. Baton rushing is allowed with a valid arrest reason. Tasers are used as aids in arresting.
 
 
-12. Baton rushing is allowed with a valid arrest reason. Tasers are used as aids in arresting.
+12. Do not abuse items given to you for law enforcement. (Handcuffs, tasers, ect.) Only use them in self defense.
 
 
-13. Do not abuse items given to you for law enforcement. (Flashbangs, mustard gas, ect.) Only use them in self defense.
+13. Only the mayor, SWAT, secret service, Batman, and police officers may enforce laws.
 
 
-14. Only the mayor, SWAT, secret service and police officers may enforce laws.
+14. Police may not lock the front door of the Police Department.
 
 
-15. Police may not lock the front door of the Police Department.
+15. If you leave your cell while arrested you are AOS/KOS...
 
 
-16. If you leave your cell while arrested you are AOS/KOS...
+16. The mayor, police officers, and secret service are allowed to own money printers as long as they are stored in the Mayor's Vault in PD.
 
 
-17. The mayor, police officers, secret service and bank security are allowed to own money printers as long as they are stored in the bank.
+17. Sweps can only be made illegal if they can deal damage to a player. 
 
+18. You may not build in the police department, or lock the doors while it is under attack or being raided.
 
-18. Sweps can only be made illegal if they can deal damage to a player. 
-
-19. You may not build in the police department, or lock the doors while it is under attack or being raided.
-
-20. CP has no gang affiliation as they play a separate role in jobs. (Killing a fellow CP due to them not being in your gang).
+19. CP has no gang affiliation as they play a separate role in jobs. (Killing a fellow CP due to them not being in your gang is not allowed).
 
 ## Default Laws Of The Land:
 
@@ -535,3 +596,6 @@ Type !donate (or !shop) to make a donation through our donation system.
 
 
 5. If a staff member suspects you have an item you shouldn’t, they may try to confirm you have purchased said item.
+
+6. Custom Classes: Any player models that are smaller than 5 PHX units are not allowed. Both the model and the full-head itself must be at least 5 PHX. (https://imgur.com/a/e4QAsk4)
+   - Using your model to head glitch isn't allowed.
