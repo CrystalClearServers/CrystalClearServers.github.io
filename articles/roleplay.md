@@ -341,6 +341,7 @@ If you are in a gang you may do the following:
 17. You may not own multiple buildings unless your job allows for it.
 
 18. Players may build in tunnels and on top of roofs.
+    - Tunnel and roof bases will not extend past said tunnel or roof.
     - Building in tunnels is fine as long as there is a way to get around the base and it does not block the tunnel.
 	- Building on Rooftops is fine as long as there is a way to get to them without use of sweps.
 	- Not Allowed Examples: Cannot make your own building in the mines/sewers, beach, in/on the water, etc.
@@ -415,7 +416,7 @@ If you are in a gang you may do the following:
 
     - You are only allowed to take a player hostage for a maximum of 20 Minutes.
 
-!> Assisting, Stealing, and Countering have NO Cooldown.
+!> Assisting, Stealing, and Countering have NO Cooldown. (If you assist in a raid, the raiding cooldowns will apply).
 
 
 ## Raiding Rules:
