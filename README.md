@@ -10,10 +10,11 @@ Join our Discord by clicking [here](https://discord.gg/H3ztBSer).
 
 ## CrystalClear RP
 
-- Update log:
+### Update Log
+
+**Additions:**
 
 ```diff
-Additions:
 + Batman
 + Cases
 + Cinema Manager
@@ -23,7 +24,11 @@ Additions:
 + Trashman
 + PD Jobs
 + Grappling Hook
-General Changes:
+```
+
+**Changes:**
+
+```diff
 --- Changeable lightsaber models
 --- Coinflip is now jackpot (/bet) 
 --- Dedicated spot for mining
@@ -36,7 +41,11 @@ General Changes:
 --- Non Legendary guns aren't permanent
 --- Updated printers with custom ones
 --- Weed Restored
-Removals:
+```
+
+**Removals:**
+
+```diff
 - Leveling System
 - Spiderman Swep
 ```
