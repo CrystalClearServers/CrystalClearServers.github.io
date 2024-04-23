@@ -10,9 +10,9 @@ Join our Discord by clicking [here](https://discord.gg/H3ztBSer).
 
 ## CrystalClear RP
 
-- Difference log:
+- Update log:
 
-```
+```diff
 Additions:
 + Batman
 + Cases
@@ -23,23 +23,19 @@ Additions:
 + Trashman
 + PD Jobs
 + Grappling Hook
-```
-```
 General Changes:
-= Changeable lightsaber models
-= Coinflip is now jackpot (/bet) 
-= Dedicated spot for mining
-= Economy Reset
-= Gangs Updated
-= Harder to get Legendary Items
-= New Bitmining System
-= New Keypads
-= New Mayor System
-= Non Legendary guns aren't permanent
-= Updated printers with custom ones
-= Weed Restored
-```
-```
+--- Changeable lightsaber models
+--- Coinflip is now jackpot (/bet) 
+--- Dedicated spot for mining
+--- Economy Reset
+--- Gangs Updated
+--- Harder to get Legendary Items
+--- New Bitmining System
+--- New Keypads
+--- New Mayor System
+--- Non Legendary guns aren't permanent
+--- Updated printers with custom ones
+--- Weed Restored
 Removals:
 - Leveling System
 - Spiderman Swep
